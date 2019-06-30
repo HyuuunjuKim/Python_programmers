@@ -3,4 +3,4 @@
 identity = '기면주'
 number_of_legs = 4
 
-print('안녕, 나는', identity, '야', '내 다리는',number_of_legs,'개야')햣
+print('안녕, 나는', identity, '야', '내 다리는',number_of_legs,'개야')
